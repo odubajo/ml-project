@@ -3,5 +3,7 @@ catboost
 xgboost
 pandas
 numpy
+flask
+dill
 seaborn
 matplotlib
